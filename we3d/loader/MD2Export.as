@@ -1,4 +1,4 @@
-﻿package we3d.loader
+package we3d.loader
 {	
 	import flash.utils.ByteArray;
 	import flash.utils.Dictionary;

@@ -1,4 +1,4 @@
-﻿package we3d.math
+package we3d.math
 {
 	public class Vector3d 
 	{

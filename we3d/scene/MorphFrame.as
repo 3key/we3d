@@ -1,4 +1,4 @@
-﻿package we3d.scene 
+package we3d.scene 
 {
 	import we3d.we3d;
 	import we3d.core.culling.BoxCulling;

@@ -1,4 +1,4 @@
-﻿package we3d.ui
+package we3d.ui
 {
 	
 	import flash.display.Sprite;

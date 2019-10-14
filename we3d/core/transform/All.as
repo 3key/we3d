@@ -1,4 +1,4 @@
-﻿package we3d.core.transform
+package we3d.core.transform
 {
 	import we3d.we3d;
 	import we3d.core.Object3d;

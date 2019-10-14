@@ -1,4 +1,4 @@
-﻿package we3d.layer 
+package we3d.layer 
 {
 	import we3d.we3d;
 	import we3d.renderer.RenderSession;

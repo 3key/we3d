@@ -1,1 +1,1 @@
-﻿package we3d.animation {	public interface IChannel {		function getValue (frame:Number) :Number;		function storeFrame (keyframe:Number=1, value:Number=0, ease_def:*=undefined) :int;		function removeFrame (frame:Number=1) :Boolean;		function clearFrames () :void;	}}
+package we3d.animation {	public interface IChannel {		function getValue (frame:Number) :Number;		function storeFrame (keyframe:Number=1, value:Number=0, ease_def:*=undefined) :int;		function removeFrame (frame:Number=1) :Boolean;		function clearFrames () :void;	}}

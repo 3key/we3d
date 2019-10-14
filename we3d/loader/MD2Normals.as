@@ -1,4 +1,4 @@
-﻿package we3d.loader  
+package we3d.loader  
 {
 	import we3d.math.Vector3d;
 	

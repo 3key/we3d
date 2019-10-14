@@ -1,4 +1,4 @@
-﻿package we3d.animation 
+package we3d.animation 
 {
 	import we3d.animation.modifier.IModifier;
 	import we3d.animation.LinearChannel;

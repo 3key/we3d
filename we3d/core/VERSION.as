@@ -1,4 +1,4 @@
-﻿package we3d.core
+package we3d.core
 {
 	/* ************ BEGIN LICENSE BLOCK ************ *\
 	\* 

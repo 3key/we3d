@@ -1,4 +1,4 @@
-﻿package we3d.loader
+package we3d.loader
 {
 	import flash.display.Scene;
 	import flash.utils.Dictionary;

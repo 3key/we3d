@@ -1,4 +1,4 @@
-﻿package we3d.mesh 
+package we3d.mesh 
 {
 	import we3d.mesh.Vertex;
 	

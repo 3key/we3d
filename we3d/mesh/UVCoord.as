@@ -1,4 +1,4 @@
-﻿package we3d.mesh 
+package we3d.mesh 
 {
 	/** 
 	* UV Cooords are used to map bitmaps to polygons. <br/>
