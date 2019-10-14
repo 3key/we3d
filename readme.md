@@ -4,6 +4,7 @@
 
 - Pure AS3 Software Renderer/Rasterizer (Scanline, Texture, ZBuffer)
 - Optional switch to Hardware Accelerated Rendering (GPU) 
+- Load .OBJ, .3DS, .LWO and .MD2 files at runtime
 
 ## Compatibility 
 
